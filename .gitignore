@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Système et bureautique
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+
+# Fichiers de travail
+*.pdf.brouillon
+*.docx.brouillon
+
+# Copies d'images du site actuel : contenus tiers, droits non vérifiés
+medias/site-actuel/pages/
+medias/site-actuel/communs/
+medias/site-actuel/css/
+livrables/06-medias/*.zip

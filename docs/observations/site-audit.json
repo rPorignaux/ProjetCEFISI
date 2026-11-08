@@ -1,0 +1,3227 @@
+{
+  "pages": {
+    "https://www.cefisi.com/": {
+      "url": "https://www.cefisi.com/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2025/07/image-21-juil-2025-18-06-48.png",
+        "https://www.cefisi.com/wp-content/uploads/2020/05/logo-cpf.jpg",
+        "https://www.cefisi.com/wp-content/uploads/2020/05/logo-fongecif.jpg",
+        "https://www.cefisi.com/wp-content/uploads/2026/09/logo-france-travail-rvb-carre-coul-positif.png",
+        "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur.png",
+        "https://www.cefisi.com/wp-content/uploads/2018/08/yogosha1-e1789083738170.png",
+        "https://www.cefisi.com/wp-content/uploads/2018/08/logo-afm-telethon.png"
+      ],
+      "lastmod": "2026-09-23T11:11:20+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/",
+      "title": "La reconversion agile en informatique d'entreprise - Le CEFISI",
+      "headings": [
+        "La reconversion agile en informatique d’entreprise",
+        "CEFISI : le CFA aux formations courtes et modulaires",
+        "Toutes les formations peuvent être financées ou prises en charges.",
+        "🎓 LE RECRUTEMENT EST OUVERT !",
+        "Analyse de l'insertion après formation",
+        "Parcours en alternance alliant formation et expérience en entreprise",
+        "Candidatez dès maintenant car les places sont limitées.",
+        "Intégrez en quelques mois le secteur du numérique",
+        "Des formations reconnues et de haut niveau",
+        "Des possibilités de prise en charge du financement",
+        "Formations à la carte",
+        "Des formations courtes à la carte",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "CEFISI : le CFA aux formations courtes et modulaires Adaptées aux salariés, aux étudiants en recherche d’une réorientation, et aux entreprises, développez vos compétences en gestion de projet, pilotage SI, spécialisations en développement MOA, No Code et Blockchain. Toutes les formations peuvent être financées ou prises en charges. Certifications reconnues RNCP Éligible CPF et accessible via la VAE Possibilité d’obtenir un bloc de compétences 🎓 LE RECRUTEMENT EST OUVERT ! Analyse de l'insertion après formation Démarrage des prochaines sessions : Deux rentrées sont programmées en 2026 pour vous former aux métiers du numérique : 26/10 : 🎓 Spécialiste en maîtrise d’ouvrage des systèmes d’inform",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2025/07/image-21-juil-2025-18-06-48-1024x683.png",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/section/div[1]/div[2]/div/div/div/figure/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-france-travail-rvb-carre-coul-positif-150x150.png",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[1]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur.png",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[2]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur.png",
+          "source": "balise img / srcset",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[2]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur-300x110.png",
+          "source": "balise img / srcset",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[2]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur-768x281.png",
+          "source": "balise img / srcset",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[2]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/08/yogosha1-e1789083738170-270x76.png",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "yogosha1",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[3]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/08/logo-afm-telethon-280x50.png",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "logo-afm-telethon",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[3]/div[4]/div/div/div/figure/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/",
+        "https://www.cefisi.com/formation-moa-en-si",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/friends/",
+        "https://www.cefisi.com/friends/requests/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/groups/create/",
+        "https://www.cefisi.com/groups/invites/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/messages/",
+        "https://www.cefisi.com/messages/compose/",
+        "https://www.cefisi.com/messages/sentbox/",
+        "https://www.cefisi.com/messages/starred/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/profile/",
+        "https://www.cefisi.com/profile/edit/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/richard-francois/": {
+      "url": "https://www.cefisi.com/richard-francois/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg"
+      ],
+      "lastmod": "2018-04-29T22:49:39+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/richard-francois/",
+      "title": "Richard François - Le CEFISI",
+      "headings": [
+        "Richard François",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Richard François est architecte logiciel. Titulaire d’un master MIAGE et du titre concepteur-architecte du CNAM, il mène depuis plus de 17 ans des projets d’architecture et de développement, notamment en Java EE. Il s’intéresse en particulier aux probléma­tiques de performance et de sécurité.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/richard-francois/friends/",
+        "https://www.cefisi.com/richard-francois/friends/requests/",
+        "https://www.cefisi.com/richard-francois/groups/",
+        "https://www.cefisi.com/richard-francois/groups/create/",
+        "https://www.cefisi.com/richard-francois/groups/invites/",
+        "https://www.cefisi.com/richard-francois/messages/",
+        "https://www.cefisi.com/richard-francois/messages/compose/",
+        "https://www.cefisi.com/richard-francois/messages/sentbox/",
+        "https://www.cefisi.com/richard-francois/messages/starred/",
+        "https://www.cefisi.com/richard-francois/profile/",
+        "https://www.cefisi.com/richard-francois/profile/edit/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/notre-approche/": {
+      "url": "https://www.cefisi.com/notre-approche/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/3axes.png"
+      ],
+      "lastmod": "2018-05-11T13:54:28+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/notre-approche/",
+      "title": "Notre approche - Le CEFISI",
+      "headings": [
+        "Notre approche",
+        "Préparer à un métier exigeant",
+        "Un univers complexe et évolutif",
+        "Une approche basée sur l'agilité",
+        "Asseoir des fondamentaux solides",
+        "Viser l'essentiel et la simplicité",
+        "Être attentif à l'humain",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Préparer à un métier exigeantUn univers complexe et évolutif Les systèmes d’information (SI) sont au service de l’entreprise. Ils tirent leur puissance de l’informatique, sont mis en œuvre par des êtres humains et influent sur eux. Ils évoluent par projets, où ces trois facteurs interagissent. Les entreprises et organisations recherchent des professionnels compétents dans les technologies complexes du SI, sachant travailler en équipe, par projet, et attentifs au besoin du commanditaire, à la valeur produite. Une approche basée sur l'agilité Les méthodes agiles sont au cœur de nos formations. Elles mettent au centre la valeur produite, ainsi que la compétence et la motivation des équipes, fac",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes-300x173.png",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div/div/div/div/div/div[1]/div/div/div/div/p[1]/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes-300x173.png",
+          "source": "balise img / srcset",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div/div/div/div/div/div[1]/div/div/div/div/p[1]/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes.png",
+          "source": "balise img / srcset",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div/div/div/div/div/div[1]/div/div/div/div/p[1]/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes-300x173.png",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/notre-approche/friends/",
+        "https://www.cefisi.com/notre-approche/friends/requests/",
+        "https://www.cefisi.com/notre-approche/groups/",
+        "https://www.cefisi.com/notre-approche/groups/create/",
+        "https://www.cefisi.com/notre-approche/groups/invites/",
+        "https://www.cefisi.com/notre-approche/messages/",
+        "https://www.cefisi.com/notre-approche/messages/compose/",
+        "https://www.cefisi.com/notre-approche/messages/sentbox/",
+        "https://www.cefisi.com/notre-approche/messages/starred/",
+        "https://www.cefisi.com/notre-approche/profile/",
+        "https://www.cefisi.com/notre-approche/profile/edit/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/tableau-de-bord/": {
+      "url": "https://www.cefisi.com/tableau-de-bord/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2018-05-11T13:57:40+00:00",
+      "status": "non visité : accès / administration potentiels",
+      "http": null,
+      "title": "",
+      "headings": [],
+      "excerpt": "",
+      "assets": [],
+      "links": []
+    },
+    "https://www.cefisi.com/politique-de-confidentialite/": {
+      "url": "https://www.cefisi.com/politique-de-confidentialite/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2018-07-02T15:20:34+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/politique-de-confidentialite/",
+      "title": "Politique de confidentialité - Le CEFISI",
+      "headings": [
+        "Politique de confidentialité",
+        "I. DONNÉES PERSONNELLES",
+        "II. POLITIQUE RELATIVE AUX COOKIES",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "La présente politique de confidentialité définit et vous informe de la manière dont CEFISI utilise et protège les informations que vous nous transmettez, le cas échéant, lorsque vous utilisez le présent site accessible à partir de l’URL suivante : www.cefisi.com (ci-après le « Site »). Veuillez noter que cette politique de confidentialité est susceptible d’être modifiée ou complétée à tout moment par CEFISI, notamment en vue de se conformer à toute évolution législative, règlementaire, jurisprudentielle ou technologique. Dans un tel cas, la date de sa mise à jour sera clairement identifiée en tête de la présente politique. Ces modifications engagent l’Utilisateur dès leur mise en ligne. Il c",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/politique-de-confidentialite/friends/",
+        "https://www.cefisi.com/politique-de-confidentialite/friends/requests/",
+        "https://www.cefisi.com/politique-de-confidentialite/groups/",
+        "https://www.cefisi.com/politique-de-confidentialite/groups/create/",
+        "https://www.cefisi.com/politique-de-confidentialite/groups/invites/",
+        "https://www.cefisi.com/politique-de-confidentialite/messages/",
+        "https://www.cefisi.com/politique-de-confidentialite/messages/compose/",
+        "https://www.cefisi.com/politique-de-confidentialite/messages/sentbox/",
+        "https://www.cefisi.com/politique-de-confidentialite/messages/starred/",
+        "https://www.cefisi.com/politique-de-confidentialite/profile/",
+        "https://www.cefisi.com/politique-de-confidentialite/profile/edit/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/nos-formations/": {
+      "url": "https://www.cefisi.com/nos-formations/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2020-05-29T06:36:43+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/nos-formations/",
+      "title": "Nos formations - Le CEFISI",
+      "headings": [
+        "Nos formations",
+        "Candidats à haut potentiel",
+        "Parcours Concepteur Développeur Informatique",
+        "Parcours Maître d'ouvrage en SI",
+        "A terme",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Intensives et de haut niveau, nos formations s’adressent à des candidats à fort potentiel, alliant esprit logique, rigueur, engagement, expérience de l’entreprise et aptitude au travail en équipe. Candidats à haut potentiel Diplômés bac+4/5 scientifiques Professionnels de l’informatique Atypiques de talent Parcours Concepteur Développeur Informatique Développeur Java EE Analyste programmeur Ingénieur d’études Parcours Maître d'ouvrage en SI Assistant à maîtrise d’ouvrage Consultant fonctionnel Consultant décisionnel A terme Architecte technique Chef de projet MOE Scrum master Créateur de start-up Architecte fonctionnel Chef de projet MOA Product owner Créateur de start-up",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/nos-formations/friends/",
+        "https://www.cefisi.com/nos-formations/friends/requests/",
+        "https://www.cefisi.com/nos-formations/groups/",
+        "https://www.cefisi.com/nos-formations/groups/create/",
+        "https://www.cefisi.com/nos-formations/groups/invites/",
+        "https://www.cefisi.com/nos-formations/messages/",
+        "https://www.cefisi.com/nos-formations/messages/compose/",
+        "https://www.cefisi.com/nos-formations/messages/sentbox/",
+        "https://www.cefisi.com/nos-formations/messages/starred/",
+        "https://www.cefisi.com/nos-formations/profile/",
+        "https://www.cefisi.com/nos-formations/profile/edit/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/romain-barcelo/": {
+      "url": "https://www.cefisi.com/romain-barcelo/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg"
+      ],
+      "lastmod": "2020-12-02T06:33:08+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/romain-barcelo/",
+      "title": "Romain Barcelo - Le CEFISI",
+      "headings": [
+        "Romain Barcelo",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Romain Barcelo, business unit director en charge des activités d’ingénierie IT pour une grande entreprise de service française dispose d’une solide expérience dans le management et la conduite du changement organisationnel. Diplômé d’un master 2, Il enseigne depuis plusieurs années en écoles d’in­gé­nieurs et à l’université. Son objectif, accompagner les étudiants dans l’atteinte de leurs projets professionnels.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/romain-barcelo/friends/",
+        "https://www.cefisi.com/romain-barcelo/friends/requests/",
+        "https://www.cefisi.com/romain-barcelo/groups/",
+        "https://www.cefisi.com/romain-barcelo/groups/create/",
+        "https://www.cefisi.com/romain-barcelo/groups/invites/",
+        "https://www.cefisi.com/romain-barcelo/messages/",
+        "https://www.cefisi.com/romain-barcelo/messages/compose/",
+        "https://www.cefisi.com/romain-barcelo/messages/sentbox/",
+        "https://www.cefisi.com/romain-barcelo/messages/starred/",
+        "https://www.cefisi.com/romain-barcelo/profile/",
+        "https://www.cefisi.com/romain-barcelo/profile/edit/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/certification-qualiopi/": {
+      "url": "https://www.cefisi.com/certification-qualiopi/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2024-05-20T15:58:00+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/certification-qualiopi/",
+      "title": "Certification Qualiopi - Le CEFISI",
+      "headings": [
+        "Certification Qualiopi",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Certificat CEFISI 2024-2027-1",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[6]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[6]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/certification-qualiopi/friends/",
+        "https://www.cefisi.com/certification-qualiopi/friends/requests/",
+        "https://www.cefisi.com/certification-qualiopi/groups/",
+        "https://www.cefisi.com/certification-qualiopi/groups/create/",
+        "https://www.cefisi.com/certification-qualiopi/groups/invites/",
+        "https://www.cefisi.com/certification-qualiopi/messages/",
+        "https://www.cefisi.com/certification-qualiopi/messages/compose/",
+        "https://www.cefisi.com/certification-qualiopi/messages/sentbox/",
+        "https://www.cefisi.com/certification-qualiopi/messages/starred/",
+        "https://www.cefisi.com/certification-qualiopi/profile/",
+        "https://www.cefisi.com/certification-qualiopi/profile/edit/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/": {
+      "url": "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-02-26T20:23:00+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+      "title": "Chef de projet Blockchain - Le CEFISI",
+      "headings": [
+        "Chef de projet Blockchain",
+        "CHEF DE PROJET EN SOLUTIONS BLOCKCHAIN Titre RNCP de niveau 6",
+        "",
+        "Prochaine session : Début 2025. Contactez-nous dès à présent.",
+        "Postuler",
+        "Activités",
+        "Évaluation",
+        "Positionnement",
+        "Objectif",
+        "Public",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "CHEF DE PROJET EN SOLUTIONS BLOCKCHAIN Titre RNCP de niveau 6 Prochaine session : Début 2025. Contactez-nous dès à présent. Le recrutement pour 2025 est ouvert, N’hésitez pas à candidater dès à présent ! Nous sommes disponibles pour répondre à vos différentes questions. Postuler Activités La certification couvre plusieurs activités : Cartographie de l’environnement technologique du client Analyse des impacts sur le client des développements blockchain envisagés Veille technologique adaptée au contexte du client Conception de frameworks en blockchain Conception de bases de données décentralisées Elaboration de smart contracts sur blockchains privées ou publiques Développement de contenus web ",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/friends/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/friends/requests/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/groups/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/groups/create/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/groups/invites/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/messages/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/messages/compose/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/messages/sentbox/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/messages/starred/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/profile/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/profile/edit/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/christophe-gnaho/": {
+      "url": "https://www.cefisi.com/christophe-gnaho/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg"
+      ],
+      "lastmod": "2025-02-26T20:24:55+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/christophe-gnaho/",
+      "title": "Christophe Gnaho - Le CEFISI",
+      "headings": [
+        "Christophe Gnaho",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Christophe Gnaho est enseignant chercheur à l’université Paris Des­car­tes. Il y a codirigé puis dirigé le master MIAGE durant 7 ans. Il a notamment mis en place le C2I métiers de l’ingénieur et la plate-forme ortho­di­dac­te. Il a également fondé une start-up qu’il a dirigé pendant 8 ans.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/christophe-gnaho/friends/",
+        "https://www.cefisi.com/christophe-gnaho/friends/requests/",
+        "https://www.cefisi.com/christophe-gnaho/groups/",
+        "https://www.cefisi.com/christophe-gnaho/groups/create/",
+        "https://www.cefisi.com/christophe-gnaho/groups/invites/",
+        "https://www.cefisi.com/christophe-gnaho/messages/",
+        "https://www.cefisi.com/christophe-gnaho/messages/compose/",
+        "https://www.cefisi.com/christophe-gnaho/messages/sentbox/",
+        "https://www.cefisi.com/christophe-gnaho/messages/starred/",
+        "https://www.cefisi.com/christophe-gnaho/profile/",
+        "https://www.cefisi.com/christophe-gnaho/profile/edit/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/alain-chetcuti/": {
+      "url": "https://www.cefisi.com/alain-chetcuti/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/alain.chetcuti.jpg"
+      ],
+      "lastmod": "2025-02-26T20:25:28+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/alain-chetcuti/",
+      "title": "Alain Chetcuti - Le CEFISI",
+      "headings": [
+        "Alain Chetcuti",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Alain Chetcuti a 20 ans d’expérience en systèmes d’information, au sein de grandes entreprises et cabinets de conseil. Aujourd’hui consultant indépendant, il intervient en direction de projets, conduite du changement, organisation et qualité. Il enseigne depuis 2009 à l’université.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/alain.chetcuti.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/alain.chetcuti.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/alain.chetcuti.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/alain-chetcuti/friends/",
+        "https://www.cefisi.com/alain-chetcuti/friends/requests/",
+        "https://www.cefisi.com/alain-chetcuti/groups/",
+        "https://www.cefisi.com/alain-chetcuti/groups/create/",
+        "https://www.cefisi.com/alain-chetcuti/groups/invites/",
+        "https://www.cefisi.com/alain-chetcuti/messages/",
+        "https://www.cefisi.com/alain-chetcuti/messages/compose/",
+        "https://www.cefisi.com/alain-chetcuti/messages/sentbox/",
+        "https://www.cefisi.com/alain-chetcuti/messages/starred/",
+        "https://www.cefisi.com/alain-chetcuti/profile/",
+        "https://www.cefisi.com/alain-chetcuti/profile/edit/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/yassir-kazar/": {
+      "url": "https://www.cefisi.com/yassir-kazar/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg"
+      ],
+      "lastmod": "2025-02-26T20:39:41+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/yassir-kazar/",
+      "title": "Yassir Kazar - Le CEFISI",
+      "headings": [
+        "Yassir Kazar",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Yassir Kazar est PDG et cofondateur de la start-up Yogosha, plate-forme de détection de failles de sécurité. Titulaire d’un master MIAGE, il a plus de 10 ans d’expérience en sécurité, décisionnel, développement, et a créé plusieurs start-up. Il intervient dans des conférences internationales, et a obtenu plusieurs prix et certifications.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe",
+        "https://www.cefisi.com/yassir-kazar/friends/",
+        "https://www.cefisi.com/yassir-kazar/friends/requests/",
+        "https://www.cefisi.com/yassir-kazar/groups/",
+        "https://www.cefisi.com/yassir-kazar/groups/create/",
+        "https://www.cefisi.com/yassir-kazar/groups/invites/",
+        "https://www.cefisi.com/yassir-kazar/messages/",
+        "https://www.cefisi.com/yassir-kazar/messages/compose/",
+        "https://www.cefisi.com/yassir-kazar/messages/sentbox/",
+        "https://www.cefisi.com/yassir-kazar/messages/starred/",
+        "https://www.cefisi.com/yassir-kazar/profile/",
+        "https://www.cefisi.com/yassir-kazar/profile/edit/"
+      ]
+    },
+    "https://www.cefisi.com/contactez-nous/": {
+      "url": "https://www.cefisi.com/contactez-nous/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-02-26T20:42:19+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/contactez-nous/",
+      "title": "Contactez-nous - Le CEFISI",
+      "headings": [
+        "Contactez-nous",
+        "Contact et plan d’accès",
+        "Nous rencontrer",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Contact et plan d’accès CEFISI – 1 voie Félix Eboué – 94000 Créteil 01 48 98 94 82 06 51 14 85 32 par whatsapp contact@www.cefisi.com Venir en voiture : Au pied de l’A4/A86. Venir en transports en commun : M° Créteil L’échat (ligne 8) : sortir à gauche (côté Hôpital Henri Mondor), monter sur le parvis (tout en haut) et aller en direction de la CAF. Nous sommes dans le bâtiment en face (4′ à pied du métro). Bus 172 : Bourg-la-Reine RER / Créteil – L’Echat Bus 181 : École vétérinaire de Maisons-Alfort / Créteil – Gaîté ( H ) Nous rencontrerCliquer ICI pour vous inscrire à la prochaine réunion d’information. Votre nom (obligatoire) Votre adresse de messagerie (obligatoire) Objet Votre message Δ",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/contactez-nous/friends/",
+        "https://www.cefisi.com/contactez-nous/friends/requests/",
+        "https://www.cefisi.com/contactez-nous/groups/",
+        "https://www.cefisi.com/contactez-nous/groups/create/",
+        "https://www.cefisi.com/contactez-nous/groups/invites/",
+        "https://www.cefisi.com/contactez-nous/messages/",
+        "https://www.cefisi.com/contactez-nous/messages/compose/",
+        "https://www.cefisi.com/contactez-nous/messages/sentbox/",
+        "https://www.cefisi.com/contactez-nous/messages/starred/",
+        "https://www.cefisi.com/contactez-nous/profile/",
+        "https://www.cefisi.com/contactez-nous/profile/edit/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/politique-de-confidentialite/",
+        "https://www.cefisi.com/poste/cefisi-cefisi-1-voie-felix-eboue-94000-38-formation-specialiste-en-maitrise-douvrage-des-si/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/houda-kharmach/": {
+      "url": "https://www.cefisi.com/houda-kharmach/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/houda.kharmach.jpg"
+      ],
+      "lastmod": "2025-02-26T20:45:02+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/houda-kharmach/",
+      "title": "Houda Kharmach - Le CEFISI",
+      "headings": [
+        "Houda Kharmach",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Houda Kharmach est enseignante-chercheuse en sciences de gestion. Ses recherches portent notamment sur la finance alternative, la gouvernance d’entreprise et le capital risque. Elle intervient en master MIAGE depuis 2006.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/houda.kharmach.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/houda.kharmach.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/houda.kharmach.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/houda-kharmach/friends/",
+        "https://www.cefisi.com/houda-kharmach/friends/requests/",
+        "https://www.cefisi.com/houda-kharmach/groups/",
+        "https://www.cefisi.com/houda-kharmach/groups/create/",
+        "https://www.cefisi.com/houda-kharmach/groups/invites/",
+        "https://www.cefisi.com/houda-kharmach/messages/",
+        "https://www.cefisi.com/houda-kharmach/messages/compose/",
+        "https://www.cefisi.com/houda-kharmach/messages/sentbox/",
+        "https://www.cefisi.com/houda-kharmach/messages/starred/",
+        "https://www.cefisi.com/houda-kharmach/profile/",
+        "https://www.cefisi.com/houda-kharmach/profile/edit/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/jean-francois-bonnet/": {
+      "url": "https://www.cefisi.com/jean-francois-bonnet/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg"
+      ],
+      "lastmod": "2025-02-26T20:46:12+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/jean-francois-bonnet/",
+      "title": "Jean-François Bonnet - Le CEFISI",
+      "headings": [
+        "Jean-François Bonnet",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Jean-François Bonnet accompagne depuis plus de 20 ans l’innovation dans les technologies et les usages. Docteur en intelligence artificielle et ingénieur en électronique, il a lancé en 2006 Innolam, un réseau de start-up innovantes qu’il codirige. Il enseigne en écoles d’ingénieurs et à l’université. Il est PDG de la société de conseil So-Innov.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/jean-francois-bonnet/friends/",
+        "https://www.cefisi.com/jean-francois-bonnet/friends/requests/",
+        "https://www.cefisi.com/jean-francois-bonnet/groups/",
+        "https://www.cefisi.com/jean-francois-bonnet/groups/create/",
+        "https://www.cefisi.com/jean-francois-bonnet/groups/invites/",
+        "https://www.cefisi.com/jean-francois-bonnet/messages/",
+        "https://www.cefisi.com/jean-francois-bonnet/messages/compose/",
+        "https://www.cefisi.com/jean-francois-bonnet/messages/sentbox/",
+        "https://www.cefisi.com/jean-francois-bonnet/messages/starred/",
+        "https://www.cefisi.com/jean-francois-bonnet/profile/",
+        "https://www.cefisi.com/jean-francois-bonnet/profile/edit/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/karima-oubekkou/": {
+      "url": "https://www.cefisi.com/karima-oubekkou/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg"
+      ],
+      "lastmod": "2025-02-26T20:46:58+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/karima-oubekkou/",
+      "title": "Manon Oubekkou - Le CEFISI",
+      "headings": [
+        "Manon Oubekkou",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Manon Oubekkou est cofondatrice du CEFISI. Titulaire d’un master MIAGE (Informatique et gestion d’entreprise), elle a été durant 5 ans directrice des études du master MIAGE de Paris Descartes puis d’une école privée où elle gérait plus de 30 formations. elle a plus de 9 ans d’expérience en projets in­for­ma­tiques.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/karima-oubekkou/friends/",
+        "https://www.cefisi.com/karima-oubekkou/friends/requests/",
+        "https://www.cefisi.com/karima-oubekkou/groups/",
+        "https://www.cefisi.com/karima-oubekkou/groups/create/",
+        "https://www.cefisi.com/karima-oubekkou/groups/invites/",
+        "https://www.cefisi.com/karima-oubekkou/messages/",
+        "https://www.cefisi.com/karima-oubekkou/messages/compose/",
+        "https://www.cefisi.com/karima-oubekkou/messages/sentbox/",
+        "https://www.cefisi.com/karima-oubekkou/messages/starred/",
+        "https://www.cefisi.com/karima-oubekkou/profile/",
+        "https://www.cefisi.com/karima-oubekkou/profile/edit/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/michel-plasse/": {
+      "url": "https://www.cefisi.com/michel-plasse/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg"
+      ],
+      "lastmod": "2025-02-26T20:47:38+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/michel-plasse/",
+      "title": "Michel Plasse - Le CEFISI",
+      "headings": [
+        "Michel Plasse",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Michel Plasse est cofondateur du CEFISI. Formateur et coach, il a aidé des centaines de personnes à se re­con­vertir en infor­ma­ti­que d’entreprise. Titulaire d’un master en mathé­matiques et d’un mastère en génie logiciel, il a plus de 25 ans d’expérience en projets in­for­ma­tiques. Il enseigne en écoles d’in­gé­nieurs et à l’université.",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+          "source": "métadonnée sociale",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/meta[16]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[41]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/michel-plasse/friends/",
+        "https://www.cefisi.com/michel-plasse/friends/requests/",
+        "https://www.cefisi.com/michel-plasse/groups/",
+        "https://www.cefisi.com/michel-plasse/groups/create/",
+        "https://www.cefisi.com/michel-plasse/groups/invites/",
+        "https://www.cefisi.com/michel-plasse/messages/",
+        "https://www.cefisi.com/michel-plasse/messages/compose/",
+        "https://www.cefisi.com/michel-plasse/messages/sentbox/",
+        "https://www.cefisi.com/michel-plasse/messages/starred/",
+        "https://www.cefisi.com/michel-plasse/profile/",
+        "https://www.cefisi.com/michel-plasse/profile/edit/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/formation-concepteur-developpeur-informatique/": {
+      "url": "https://www.cefisi.com/formation-concepteur-developpeur-informatique/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-05-21T16:51:04+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/formation-concepteur-developpeur-informatique/",
+      "title": "Formation concepteur développeur d'application - Le CEFISI",
+      "headings": [
+        "Formation concepteur développeur d’application",
+        "Formation concepteur développeur d’application",
+        "Titre RNCP de niveau 2 (bac+4), éligible CPF 4 mois en continu + 2 mois en entreprise",
+        "Prochaine session : Janvier 2021. Contactez-nous dès à présent.",
+        "Postuler",
+        "Positionnement",
+        "Objectif",
+        "Public",
+        "Certification",
+        "Développer des composants d'interface",
+        "Développer la persistance des données",
+        "Développer une application n-tiers",
+        "Contenu",
+        "1. Développer une application (22 jours)",
+        "2. Applications Web multi-couches et distribuées (21 jours)",
+        "3. Projet de synthèse (21 jours)",
+        "4. Stage en entreprise (2 mois)",
+        "5. Préparation à la certification (5 j)",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Formation concepteur développeur d’application Titre RNCP de niveau 2 (bac+4), éligible CPF 4 mois en continu + 2 mois en entreprise Titre RNCP Niveau 2 Prochaine session : Janvier 2021. Contactez-nous dès à présent.Postuler Positionnement L’informatique, indispensable à la gestion des entreprises, rend leurs services disponibles partout et à toute heure, grâce aux applications Web et mobiles. Pour les développer, les entreprises recherchent des professionnels compétents dans ces technologies complexes, attentifs au besoin, et sachant travailler en équipe, par projet. Objectif Savoir développer de façon professionnelle des applications d’entreprise en Java, langage le plus utilisé dans les g",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/friends/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/friends/requests/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/groups/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/groups/create/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/groups/invites/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/messages/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/messages/compose/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/messages/sentbox/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/messages/starred/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/profile/",
+        "https://www.cefisi.com/formation-concepteur-developpeur-informatique/profile/edit/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/poste/cefisi-cefisi-1-voie-felix-eboue-94000-38-formation-specialiste-en-maitrise-douvrage-des-si/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/equipe/": {
+      "url": "https://www.cefisi.com/equipe/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-05-21T21:26:21+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/equipe/",
+      "title": "Notre équipe - Le CEFISI",
+      "headings": [
+        "Notre équipe",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Notre équipe regroupe des professionnels des SI et de la formation, qui collaborent depuis des années et accordent la même importance à l’humain et au professionnalisme. .vc_custom_1419240516480{background-color: #f9f9f9 !important;}Manon OubekkouManon Oubekkou est cofondatrice du CEFISI. Titulaire d’un master MIAGE (Informatique et gestion d’entreprise), elle a été durant 5 ans directrice des études du master MIAGE de Paris Descartes puis […] Lire plusMichel PlasseMichel Plasse est cofondateur du CEFISI. Formateur et coach, il a aidé des centaines de personnes à se re­con­vertir en infor­ma­ti­que d’entreprise. Titulaire d’un master en mathé­matiques et d’un mastère […] Lire plusChristophe ",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Manon Oubekkou",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Michel Plasse",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[2]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Christophe Gnaho",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[3]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Yassir Kazar",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[4]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Richard François",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[5]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Romain Barcelo",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[6]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+          "source": "balise img / src",
+          "zone": "contenu de page",
+          "alt": "Jean-François Bonnet",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[7]/div[1]/div[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[2]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[3]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[4]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[5]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[6]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+          "source": "style inline / url()",
+          "zone": "contenu de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/div/div/article/div/div/div[2]/div/div/div/div/div/div/div[1]/div[7]/div[1]/div[1]/div"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/christophe-gnaho/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/equipe/friends/",
+        "https://www.cefisi.com/equipe/friends/requests/",
+        "https://www.cefisi.com/equipe/groups/",
+        "https://www.cefisi.com/equipe/groups/create/",
+        "https://www.cefisi.com/equipe/groups/invites/",
+        "https://www.cefisi.com/equipe/messages/",
+        "https://www.cefisi.com/equipe/messages/compose/",
+        "https://www.cefisi.com/equipe/messages/sentbox/",
+        "https://www.cefisi.com/equipe/messages/starred/",
+        "https://www.cefisi.com/equipe/profile/",
+        "https://www.cefisi.com/equipe/profile/edit/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/jean-francois-bonnet/",
+        "https://www.cefisi.com/karima-oubekkou/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/michel-plasse/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/richard-francois/",
+        "https://www.cefisi.com/romain-barcelo/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe",
+        "https://www.cefisi.com/yassir-kazar/"
+      ]
+    },
+    "https://www.cefisi.com/login/": {
+      "url": "https://www.cefisi.com/login/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-06-09T18:44:56+00:00",
+      "status": "non visité : accès / administration potentiels",
+      "http": null,
+      "title": "",
+      "headings": [],
+      "excerpt": "",
+      "assets": [],
+      "links": []
+    },
+    "https://www.cefisi.com/publier-une-offre-demploi/": {
+      "url": "https://www.cefisi.com/publier-une-offre-demploi/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-06-22T12:08:57+00:00",
+      "status": "non visité : accès / administration potentiels",
+      "http": null,
+      "title": "",
+      "headings": [],
+      "excerpt": "",
+      "assets": [],
+      "links": []
+    },
+    "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/": {
+      "url": "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-06-22T12:11:36+00:00",
+      "status": "connexion requise",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/login/",
+      "title": "Connexion - Le CEFISI",
+      "headings": [],
+      "excerpt": "Connexion - Le CEFISI {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"url\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"name\":\"Connexion - Le CEFISI\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/#website\"},\"datePublished\":\"2024-06-02T18:26:00+00:00\",\"dateModified\":\"2025-06-09T18:44:56+00:00\",\"description\":\"La reconversion agile en informatique d'entreprise. Formations concepteur développeur informatique (titre RNCP de niveau 2), conduire un projet informatique (inscrit à la CNCP, éligible CPF), et maître d’ouvrage en SI\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"Read",
+      "assets": [],
+      "links": [
+        "https://www.cefisi.com",
+        "https://www.cefisi.com/wp-login.php?action=lostpassword"
+      ]
+    },
+    "https://www.cefisi.com/wiki/": {
+      "url": "https://www.cefisi.com/wiki/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-07-05T12:42:45+00:00",
+      "status": "non visité : accès / administration potentiels",
+      "http": null,
+      "title": "",
+      "headings": [],
+      "excerpt": "",
+      "assets": [],
+      "links": []
+    },
+    "https://www.cefisi.com/formation-moa-en-si/": {
+      "url": "https://www.cefisi.com/formation-moa-en-si/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2026-09-09T20:26:06+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/formation-moa-en-si/",
+      "title": "Formation moa en SI - Le CEFISI",
+      "headings": [
+        "Formation moa en SI",
+        "Spécialiste en maîtrise d’ouvrage des SI",
+        "Titre RNCP de niveau 7 (bac+5) financée par la région ile de France et",
+        "éligible CPF",
+        "750 heures sur une année",
+        "Prochaine session : le 26 octobre 2026. Contactez-nous dès à présent.",
+        "",
+        "Postuler",
+        "Activités",
+        "Évaluation",
+        "Positionnement",
+        "Objectif",
+        "Public",
+        "Acquérir et formaliser la connaissance métier",
+        "Cadrer le besoin ou le projet",
+        "Recueillir et formaliser les besoins du client",
+        "Contribuer à la conception d’applications du point de vue fonctionnel",
+        "Concevoir des interfaces utilisateurs ergonomiques en tenant compte de l’expérience utilisateur",
+        "Faire évoluer l’architecture fonctionnelle du système d’information",
+        "Élaborer la stratégie de test"
+      ],
+      "excerpt": "Spécialiste en maîtrise d’ouvrage des SI Titre RNCP de niveau 7 (bac+5) financée par la région ile de France et éligible CPF 750 heures sur une année RNCP Niveau 7 Prochaine session : le 26 octobre 2026. Contactez-nous dès à présent.Le recrutement pour les sessions de 2026 est ouvert, prochaine session le 26 octobre 2026 ! n’hésitez pas à candidater dès à présent ! Nous sommes disponibles pour répondre à vos différentes questions. Postuler Activités La certification couvre 5 activités : Analyser des besoins du client dans le cadre d’un projet relatif à son système d’information (projet SI) Manager un projet SI (Système d’information) Préparer et réaliser la recette d’une application informat",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/formation-moa-en-si/friends/",
+        "https://www.cefisi.com/formation-moa-en-si/friends/requests/",
+        "https://www.cefisi.com/formation-moa-en-si/groups/",
+        "https://www.cefisi.com/formation-moa-en-si/groups/create/",
+        "https://www.cefisi.com/formation-moa-en-si/groups/invites/",
+        "https://www.cefisi.com/formation-moa-en-si/messages/",
+        "https://www.cefisi.com/formation-moa-en-si/messages/compose/",
+        "https://www.cefisi.com/formation-moa-en-si/messages/sentbox/",
+        "https://www.cefisi.com/formation-moa-en-si/messages/starred/",
+        "https://www.cefisi.com/formation-moa-en-si/profile/",
+        "https://www.cefisi.com/formation-moa-en-si/profile/edit/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/no-code/": {
+      "url": "https://www.cefisi.com/no-code/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2026-09-27T20:32:36+00:00",
+      "status": "public observé",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/no-code/",
+      "title": "Concepteur développeur d'applications - Le CEFISI",
+      "headings": [
+        "Concepteur développeur d’applications",
+        "Le CEFISI vous propose la formation Concepteur développeur d’applications et CDA-No-code (Double diplôme)",
+        "Titres RNCP",
+        "1192 heures sur une année (novembre 2026-juillet 2027)",
+        "Prochaine session : Novembre 2026. Contactez-nous dès à présent.",
+        "",
+        "Postuler",
+        "Activités",
+        "🎓 Un parcours en double certification",
+        "Évaluation",
+        "Positionnement",
+        "Objectif",
+        "Public",
+        "Nos formations",
+        "Nos réseaux"
+      ],
+      "excerpt": "Le CEFISI vous propose la formation Concepteur développeur d’applications et CDA-No-code (Double diplôme) Titres RNCP 1192 heures sur une année (novembre 2026-juillet 2027) Prochaine session : Novembre 2026. Contactez-nous dès à présent.Le recrutement pour la session de novembre 2026 est ouvert, n’hésitez pas à candidater dès à présent ! Nous sommes disponibles pour répondre à vos différentes questions. Plusieurs RI sont organisées n’hésitez pas à nous contacter pour y participer ! Postuler Activités Le CEFISI démarre une nouvelle session de la formation Concepteur Développeur d’Applications (CDA) à partir du 9 novembre 2026. La formation est prise en charge dans le cadre du dispositif PERFE",
+      "assets": [
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+          "source": "balise img / src",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "Logo Image",
+          "dom": "/html/body/div[1]/div/div[1]/nav/div[1]/div/a/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[1]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+          "source": "balise img / src",
+          "zone": "pied de page",
+          "alt": "",
+          "dom": "/html/body/div[1]/footer/div/div/div/div[3]/div/figure[2]/div/img"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "style inline / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/div[2]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/themes/woffice/images/footer-hero.png",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg",
+          "source": "balise style / url()",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/style[5]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/6129291-800x600.jpg",
+          "source": "balise style / url()",
+          "zone": "en-tête / navigation",
+          "alt": "",
+          "dom": "/html/body/div[1]/div/div[2]/section/div/header[2]/style"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/android-chrome-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[3]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-32x32.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[42]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-192x192.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[43]"
+        },
+        {
+          "url": "https://www.cefisi.com/wp-content/uploads/2018/04/cropped-Picto-180x180.png",
+          "source": "icône du document",
+          "zone": "gabarit / zone non identifiée",
+          "alt": "",
+          "dom": "/html/head/link[44]"
+        }
+      ],
+      "links": [
+        "https://www.cefisi.com/",
+        "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+        "https://www.cefisi.com/contactez-nous/",
+        "https://www.cefisi.com/documents-cours/",
+        "https://www.cefisi.com/documents-direction/",
+        "https://www.cefisi.com/equipe/",
+        "https://www.cefisi.com/formation-moa-en-si/",
+        "https://www.cefisi.com/gestion-des-documents-de-cours/",
+        "https://www.cefisi.com/groups/",
+        "https://www.cefisi.com/login/",
+        "https://www.cefisi.com/members/",
+        "https://www.cefisi.com/no-code/",
+        "https://www.cefisi.com/no-code/friends/",
+        "https://www.cefisi.com/no-code/friends/requests/",
+        "https://www.cefisi.com/no-code/groups/",
+        "https://www.cefisi.com/no-code/groups/create/",
+        "https://www.cefisi.com/no-code/groups/invites/",
+        "https://www.cefisi.com/no-code/messages/",
+        "https://www.cefisi.com/no-code/messages/compose/",
+        "https://www.cefisi.com/no-code/messages/sentbox/",
+        "https://www.cefisi.com/no-code/messages/starred/",
+        "https://www.cefisi.com/no-code/profile/",
+        "https://www.cefisi.com/no-code/profile/edit/",
+        "https://www.cefisi.com/nos-formations/",
+        "https://www.cefisi.com/notre-approche/",
+        "https://www.cefisi.com/offres-demploi/",
+        "https://www.cefisi.com/publier-une-offre-demploi/",
+        "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+        "https://www.cefisi.com/wiki/",
+        "https://www.cefisi.com/wp-login.php?action=logout&_wpnonce=12fd89dbfe"
+      ]
+    },
+    "https://www.cefisi.com/offres-demploi/": {
+      "url": "https://www.cefisi.com/offres-demploi/",
+      "sitemap": "post-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2019-09-27T09:50:34+00:00",
+      "status": "connexion requise",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/login/",
+      "title": "Connexion - Le CEFISI",
+      "headings": [],
+      "excerpt": "Connexion - Le CEFISI {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"url\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"name\":\"Connexion - Le CEFISI\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/#website\"},\"datePublished\":\"2024-06-02T18:26:00+00:00\",\"dateModified\":\"2025-06-09T18:44:56+00:00\",\"description\":\"La reconversion agile en informatique d'entreprise. Formations concepteur développeur informatique (titre RNCP de niveau 2), conduire un projet informatique (inscrit à la CNCP, éligible CPF), et maître d’ouvrage en SI\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"Read",
+      "assets": [],
+      "links": [
+        "https://www.cefisi.com",
+        "https://www.cefisi.com/wp-login.php?action=lostpassword"
+      ]
+    },
+    "https://www.cefisi.com/moa/": {
+      "url": "https://www.cefisi.com/moa/",
+      "sitemap": "post-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2019-09-27T09:50:34+00:00",
+      "status": "connexion requise",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/login/",
+      "title": "Connexion - Le CEFISI",
+      "headings": [],
+      "excerpt": "Connexion - Le CEFISI {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"url\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"name\":\"Connexion - Le CEFISI\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/#website\"},\"datePublished\":\"2024-06-02T18:26:00+00:00\",\"dateModified\":\"2025-06-09T18:44:56+00:00\",\"description\":\"La reconversion agile en informatique d'entreprise. Formations concepteur développeur informatique (titre RNCP de niveau 2), conduire un projet informatique (inscrit à la CNCP, éligible CPF), et maître d’ouvrage en SI\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"Read",
+      "assets": [],
+      "links": [
+        "https://www.cefisi.com",
+        "https://www.cefisi.com/wp-login.php?action=lostpassword"
+      ]
+    },
+    "https://www.cefisi.com/category/non-classe/": {
+      "url": "https://www.cefisi.com/category/non-classe/",
+      "sitemap": "category-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2019-09-27T09:50:34+00:00",
+      "status": "connexion requise",
+      "http": 200,
+      "final_url": "https://www.cefisi.com/login/",
+      "title": "Connexion - Le CEFISI",
+      "headings": [],
+      "excerpt": "Connexion - Le CEFISI {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"url\":\"https:\\/\\/www.cefisi.com\\/login\\/\",\"name\":\"Connexion - Le CEFISI\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/#website\"},\"datePublished\":\"2024-06-02T18:26:00+00:00\",\"dateModified\":\"2025-06-09T18:44:56+00:00\",\"description\":\"La reconversion agile en informatique d'entreprise. Formations concepteur développeur informatique (titre RNCP de niveau 2), conduire un projet informatique (inscrit à la CNCP, éligible CPF), et maître d’ouvrage en SI\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.cefisi.com\\/login\\/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"potentialAction\":[{\"@type\":\"Read",
+      "assets": [],
+      "links": [
+        "https://www.cefisi.com",
+        "https://www.cefisi.com/wp-login.php?action=lostpassword"
+      ]
+    }
+  },
+  "seed": {
+    "https://www.cefisi.com/": {
+      "url": "https://www.cefisi.com/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2025/07/image-21-juil-2025-18-06-48.png",
+        "https://www.cefisi.com/wp-content/uploads/2020/05/logo-cpf.jpg",
+        "https://www.cefisi.com/wp-content/uploads/2020/05/logo-fongecif.jpg",
+        "https://www.cefisi.com/wp-content/uploads/2026/09/logo-france-travail-rvb-carre-coul-positif.png",
+        "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur.png",
+        "https://www.cefisi.com/wp-content/uploads/2018/08/yogosha1-e1789083738170.png",
+        "https://www.cefisi.com/wp-content/uploads/2018/08/logo-afm-telethon.png"
+      ],
+      "lastmod": "2026-09-23T11:11:20+00:00"
+    },
+    "https://www.cefisi.com/richard-francois/": {
+      "url": "https://www.cefisi.com/richard-francois/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg"
+      ],
+      "lastmod": "2018-04-29T22:49:39+00:00"
+    },
+    "https://www.cefisi.com/notre-approche/": {
+      "url": "https://www.cefisi.com/notre-approche/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/3axes.png"
+      ],
+      "lastmod": "2018-05-11T13:54:28+00:00"
+    },
+    "https://www.cefisi.com/tableau-de-bord/": {
+      "url": "https://www.cefisi.com/tableau-de-bord/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2018-05-11T13:57:40+00:00"
+    },
+    "https://www.cefisi.com/politique-de-confidentialite/": {
+      "url": "https://www.cefisi.com/politique-de-confidentialite/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2018-07-02T15:20:34+00:00"
+    },
+    "https://www.cefisi.com/nos-formations/": {
+      "url": "https://www.cefisi.com/nos-formations/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2020-05-29T06:36:43+00:00"
+    },
+    "https://www.cefisi.com/romain-barcelo/": {
+      "url": "https://www.cefisi.com/romain-barcelo/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg"
+      ],
+      "lastmod": "2020-12-02T06:33:08+00:00"
+    },
+    "https://www.cefisi.com/certification-qualiopi/": {
+      "url": "https://www.cefisi.com/certification-qualiopi/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2024-05-20T15:58:00+00:00"
+    },
+    "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/": {
+      "url": "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-02-26T20:23:00+00:00"
+    },
+    "https://www.cefisi.com/christophe-gnaho/": {
+      "url": "https://www.cefisi.com/christophe-gnaho/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg"
+      ],
+      "lastmod": "2025-02-26T20:24:55+00:00"
+    },
+    "https://www.cefisi.com/alain-chetcuti/": {
+      "url": "https://www.cefisi.com/alain-chetcuti/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/alain.chetcuti.jpg"
+      ],
+      "lastmod": "2025-02-26T20:25:28+00:00"
+    },
+    "https://www.cefisi.com/yassir-kazar/": {
+      "url": "https://www.cefisi.com/yassir-kazar/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg"
+      ],
+      "lastmod": "2025-02-26T20:39:41+00:00"
+    },
+    "https://www.cefisi.com/contactez-nous/": {
+      "url": "https://www.cefisi.com/contactez-nous/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-02-26T20:42:19+00:00"
+    },
+    "https://www.cefisi.com/houda-kharmach/": {
+      "url": "https://www.cefisi.com/houda-kharmach/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/houda.kharmach.jpg"
+      ],
+      "lastmod": "2025-02-26T20:45:02+00:00"
+    },
+    "https://www.cefisi.com/jean-francois-bonnet/": {
+      "url": "https://www.cefisi.com/jean-francois-bonnet/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg"
+      ],
+      "lastmod": "2025-02-26T20:46:12+00:00"
+    },
+    "https://www.cefisi.com/karima-oubekkou/": {
+      "url": "https://www.cefisi.com/karima-oubekkou/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg"
+      ],
+      "lastmod": "2025-02-26T20:46:58+00:00"
+    },
+    "https://www.cefisi.com/michel-plasse/": {
+      "url": "https://www.cefisi.com/michel-plasse/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [
+        "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg"
+      ],
+      "lastmod": "2025-02-26T20:47:38+00:00"
+    },
+    "https://www.cefisi.com/formation-concepteur-developpeur-informatique/": {
+      "url": "https://www.cefisi.com/formation-concepteur-developpeur-informatique/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-05-21T16:51:04+00:00"
+    },
+    "https://www.cefisi.com/equipe/": {
+      "url": "https://www.cefisi.com/equipe/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-05-21T21:26:21+00:00"
+    },
+    "https://www.cefisi.com/login/": {
+      "url": "https://www.cefisi.com/login/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-06-09T18:44:56+00:00"
+    },
+    "https://www.cefisi.com/publier-une-offre-demploi/": {
+      "url": "https://www.cefisi.com/publier-une-offre-demploi/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-06-22T12:08:57+00:00"
+    },
+    "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/": {
+      "url": "https://www.cefisi.com/tableau-de-bord-des-offres-demploi/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-06-22T12:11:36+00:00"
+    },
+    "https://www.cefisi.com/wiki/": {
+      "url": "https://www.cefisi.com/wiki/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2025-07-05T12:42:45+00:00"
+    },
+    "https://www.cefisi.com/formation-moa-en-si/": {
+      "url": "https://www.cefisi.com/formation-moa-en-si/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2026-09-09T20:26:06+00:00"
+    },
+    "https://www.cefisi.com/no-code/": {
+      "url": "https://www.cefisi.com/no-code/",
+      "sitemap": "page-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2026-09-27T20:32:36+00:00"
+    },
+    "https://www.cefisi.com/offres-demploi/": {
+      "url": "https://www.cefisi.com/offres-demploi/",
+      "sitemap": "post-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2019-09-27T09:50:34+00:00"
+    },
+    "https://www.cefisi.com/moa/": {
+      "url": "https://www.cefisi.com/moa/",
+      "sitemap": "post-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2019-09-27T09:50:34+00:00"
+    },
+    "https://www.cefisi.com/category/non-classe/": {
+      "url": "https://www.cefisi.com/category/non-classe/",
+      "sitemap": "category-sitemap.xml",
+      "sitemap_images": [],
+      "lastmod": "2019-09-27T09:50:34+00:00"
+    }
+  },
+  "updated_at": "2026-11-08T14:53:08.124479+00:00"
+}

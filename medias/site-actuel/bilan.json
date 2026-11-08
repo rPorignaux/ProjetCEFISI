@@ -1,0 +1,32 @@
+{
+  "total_references": 102,
+  "downloaded_or_copied": 100,
+  "failures": [
+    {
+      "classement": "css-reference",
+      "page_ou_css": "https://www.cefisi.com/wp-content/plugins/vc-super-bundle/features/carousel/carousel-anything/css/owl.carousel.css?ver=1.12",
+      "zone": "CSS chargé sur l'accueil ; affichage non confirmé",
+      "nom": "Fichier owl.video.play.png",
+      "url_source": "https://www.cefisi.com/wp-content/plugins/vc-super-bundle/features/carousel/carousel-anything/css/owl.video.play.png",
+      "fichier_local": "",
+      "etat": "données non reconnues comme image : UnidentifiedImageError",
+      "http": 200,
+      "octets": "",
+      "sha256": "",
+      "type_contenu": "text/html"
+    },
+    {
+      "classement": "css-reference",
+      "page_ou_css": "https://www.cefisi.com/wp-content/themes/woffice/css/assets.min.css?ver=5.4.42",
+      "zone": "CSS chargé sur l'accueil ; affichage non confirmé",
+      "nom": "Fichier mCSB_buttons.png",
+      "url_source": "https://www.cefisi.com/wp-content/themes/woffice/css/mCSB_buttons.png",
+      "fichier_local": "",
+      "etat": "données non reconnues comme image : UnidentifiedImageError",
+      "http": 200,
+      "octets": "",
+      "sha256": "",
+      "type_contenu": "text/html"
+    }
+  ]
+}

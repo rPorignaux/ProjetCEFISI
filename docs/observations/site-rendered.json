@@ -1,0 +1,1067 @@
+{
+  "https://www.cefisi.com/": {
+    "url": "https://www.cefisi.com/",
+    "title": "🐴 La reconversion agile en informatique d'entreprise - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2025/07/image-21-juil-2025-18-06-48-1024x683.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2025/07/image-21-juil-2025-18-06-48-1024x683.png",
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2020/05/logo-cpf.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2020/05/logo-cpf.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2020/05/logo-cpf.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Compte Personnel de Formation",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2020/05/logo-fongecif.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2020/05/logo-fongecif.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2020/05/logo-fongecif.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Fongecif",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-france-travail-rvb-carre-coul-positif-150x150.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-france-travail-rvb-carre-coul-positif-150x150.png",
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur-768x281.png",
+        "srcset": "https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur.png 840w, https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur-300x110.png 300w, https://www.cefisi.com/wp-content/uploads/2026/09/logo-ridf-2019-couleur-768x281.png 768w",
+        "style": null,
+        "alt": "",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/08/yogosha1-e1789083738170-270x76.png",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "yogosha1",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/08/logo-afm-telethon-280x50.png",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "logo-afm-telethon",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "currentSrc": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "gabarit"
+      }
+    ]
+  },
+  "https://www.cefisi.com/richard-francois/": {
+    "url": "https://www.cefisi.com/richard-francois/",
+    "title": "🐴 Richard François - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/notre-approche/": {
+    "url": "https://www.cefisi.com/notre-approche/",
+    "title": "🐴 Notre approche - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes-300x173.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes-300x173.png",
+        "srcset": "https://www.cefisi.com/wp-content/uploads/2018/04/3axes-300x173.png 300w, https://www.cefisi.com/wp-content/uploads/2018/04/3axes.png 520w",
+        "style": null,
+        "alt": "",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/politique-de-confidentialite/": {
+    "url": "https://www.cefisi.com/politique-de-confidentialite/",
+    "title": "🐴 Politique de confidentialité - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/nos-formations/": {
+    "url": "https://www.cefisi.com/nos-formations/",
+    "title": "🐴 Nos formations - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/romain-barcelo/": {
+    "url": "https://www.cefisi.com/romain-barcelo/",
+    "title": "🐴 Romain Barcelo - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/certification-qualiopi/": {
+    "url": "https://www.cefisi.com/certification-qualiopi/",
+    "title": "🐴 Certification Qualiopi - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/": {
+    "url": "https://www.cefisi.com/chef-de-projet-en-solutions-blockchain/",
+    "title": "🐴 Chef de projet Blockchain - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/christophe-gnaho/": {
+    "url": "https://www.cefisi.com/christophe-gnaho/",
+    "title": "🐴 Christophe Gnaho - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/alain-chetcuti/": {
+    "url": "https://www.cefisi.com/alain-chetcuti/",
+    "title": "🐴 Alain Chetcuti - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/alain.chetcuti.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/yassir-kazar/": {
+    "url": "https://www.cefisi.com/yassir-kazar/",
+    "title": "🐴 Yassir Kazar - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/contactez-nous/": {
+    "url": "https://www.cefisi.com/contactez-nous/",
+    "title": "🐴 Contactez-nous - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/houda-kharmach/": {
+    "url": "https://www.cefisi.com/houda-kharmach/",
+    "title": "🐴 Houda Kharmach - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/houda.kharmach.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/jean-francois-bonnet/": {
+    "url": "https://www.cefisi.com/jean-francois-bonnet/",
+    "title": "🐴 Jean-François Bonnet - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/karima-oubekkou/": {
+    "url": "https://www.cefisi.com/karima-oubekkou/",
+    "title": "🐴 Manon Oubekkou - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/michel-plasse/": {
+    "url": "https://www.cefisi.com/michel-plasse/",
+    "title": "🐴 Michel Plasse - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/formation-concepteur-developpeur-informatique/": {
+    "url": "https://www.cefisi.com/formation-concepteur-developpeur-informatique/",
+    "title": "🐴 Formation concepteur développeur d'application - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/equipe/": {
+    "url": "https://www.cefisi.com/equipe/",
+    "title": "🐴 Notre équipe - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/06/Karima-carre.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Manon Oubekkou",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/michel.plasse.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Michel Plasse",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/christophe.gnaho_.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Christophe Gnaho",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/yassir.kazar_.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Yassir Kazar",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/richard.francois.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Richard François",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2020/12/unnamed-2.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Romain Barcelo",
+        "zone": "contenu"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url('https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg') !important;",
+        "alt": null,
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/jean-francois.bonnet.jpg",
+        "srcset": null,
+        "style": null,
+        "alt": "Jean-François Bonnet",
+        "zone": "contenu"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/formation-moa-en-si/": {
+    "url": "https://www.cefisi.com/formation-moa-en-si/",
+    "title": "🐴 Formation moa en SI - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  },
+  "https://www.cefisi.com/no-code/": {
+    "url": "https://www.cefisi.com/no-code/",
+    "title": "🐴 Concepteur développeur d'applications - Le CEFISI",
+    "items": [
+      {
+        "tag": "IMG",
+        "src": "//www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "currentSrc": "https://www.cefisi.com/wp-content/uploads/2018/04/logo-clair.png",
+        "srcset": null,
+        "style": null,
+        "alt": "Logo Image",
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "DIV",
+        "src": null,
+        "currentSrc": null,
+        "srcset": null,
+        "style": "background-image: url(https://www.cefisi.com/wp-content/uploads/2018/04/6129291.jpg)",
+        "alt": null,
+        "zone": "en-tête/navigation"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2024/04/qualiopi_logo_retrouche.webp",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      },
+      {
+        "tag": "IMG",
+        "src": "https://www.cefisi.com/wp-content/uploads/2018/05/Picto_datadocke-small.jpg",
+        "currentSrc": null,
+        "srcset": null,
+        "style": null,
+        "alt": "",
+        "zone": "pied de page"
+      }
+    ]
+  }
+}
