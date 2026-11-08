@@ -171,7 +171,7 @@ Les valeurs chiffrées sont des propositions à valider, pas des engagements.
 
 | Réf | Difficulté | Pourquoi elle est réelle ici | Impact | Piste | État |
 |---|---|---|---|---|---|
-| T-01 | Migration ou reconstruction | Le site actuel est un WordPress avec un thème commercial et des extensions visibles dans les adresses | Le choix conditionne le délai, la reprise des contenus et le référencement | Comparer migration et reconstruction dans les propositions de stack | À trancher |
+| T-01 | Reconstruction et reprise | Le site actuel est un WordPress avec un thème commercial et des extensions visibles dans les adresses ; la refonte est un redéveloppement intégral | Reprise des contenus, adresses et médias sans reconduire le thème ni les extensions | Préparer les exports et une table de correspondance entre anciennes et nouvelles pages | Décidé, reprise à planifier |
 | T-02 | Droits réellement appliqués | Masquer un lien dans la barre ne protège rien : un fichier reste accessible par son adresse | Fuite de documents pédagogiques | Contrôle côté serveur sur chaque requête, liens signés pour les fichiers | Décidé, à vérifier en recette |
 | T-03 | Stockage des fichiers | Volume et taille des PDF, types autorisés, quotas, analyse antivirus | Saturation, dépôt de fichier indésirable | Limites explicites et analyse à l'entrée | À définir |
 | T-04 | Diffusion des documents | Un PDF déposé dans un répertoire public est lisible par tous | Contournement des droits | Diffusion contrôlée, sans répertoire public, cache maîtrisé | Décidé |
