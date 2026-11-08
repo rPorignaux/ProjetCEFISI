@@ -297,11 +297,11 @@ Le choix se renverse si l'audit des compétences montre que personne n'est à l'
 | Outil | Usage | État |
 |---|---|---|
 | Trello | Suivi des tâches : « En attente » pour les tâches futures, « En cours — prochain sprint » pour celles à présenter au prochain point | Tableau privé `https://trello.com/b/2o9z11DF/refonte-du-site-cefisi` |
-| Penpot | Maquettes et gabarit commun ; dix écrans : accueil bureau et mobile, fiche formation, connexion, administration, création de page, gestion des utilisateurs, consultation étudiante et sa version mobile, états vides et messages | Fait, exports PNG dans `livrables/04-maquettes/` |
-| Inventaire du site | Pages, utilité, médias par page, références CSS | Word et Excel dans `livrables/` |
-| Médias | 100 fichiers copiés, manifeste avec adresse source et empreinte, archive ZIP | Fait |
-| Matrice des droits | 52 droits par domaine et par rôle, colonne « Décision client » à remplir | À arbitrer avec le client |
-| Versionnage du code | Aucun dépôt n'existe à ce jour | À ouvrir avant le premier développement |
+| Penpot | Maquettes et gabarit commun ; dix écrans : accueil bureau et mobile, fiche formation, connexion, administration, création de page, gestion des utilisateurs, consultation étudiante et sa version mobile, états vides et messages | Exports PNG dans `docs/maquettes/` |
+| Inventaire du site | Pages, utilité, médias par page, références CSS | Word et Excel dans `docs/inventaire/` |
+| Médias | 100 fichiers copiés localement, manifeste avec adresse source et empreinte, archive ZIP non versionnée (droits de diffusion non établis) | Manifeste dans `docs/medias/site-actuel/` |
+| Matrice des droits | 52 droits par domaine et par rôle, colonne « Décision client » à remplir | `docs/matrice/` ; à arbitrer avec le client |
+| Versionnage du projet | Dépôt Git ouvert ; documents et maquettes versionnés, scripts locaux non versionnés | À utiliser pour les futurs développements |
 
 Le tableau Trello ne remplace ni l'inventaire, qui est un catalogue de pages, ni la matrice des droits, qui est un tableau d'arbitrage. Chacun a un rôle distinct.
 

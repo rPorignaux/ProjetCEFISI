@@ -14,8 +14,11 @@ desktop.ini
 *.pdf.brouillon
 *.docx.brouillon
 
+# Scripts de collecte et génération : conservés seulement en local
+/tools/
+
 # Copies d'images du site actuel : contenus tiers, droits non vérifiés
-medias/site-actuel/pages/
-medias/site-actuel/communs/
-medias/site-actuel/css/
-livrables/06-medias/*.zip
+/docs/medias/site-actuel/pages/
+/docs/medias/site-actuel/communs/
+/docs/medias/site-actuel/css/
+/docs/medias/*.zip
