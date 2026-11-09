@@ -1,5 +1,7 @@
 # CEFISI — Proposition de charte graphique
 
+**Équipe projet :** Mattéo, Romain, Tim et Cal-Sebastien.
+
 **Une continuité, pas une nouvelle identité : la refonte reste dans les tons bleus de CEFISI.** Les valeurs ci-dessous illustrent une direction issue des maquettes ; elles seront ajustées à partir des éléments officiels fournis par le client.
 
 ## Deux couleurs de référence

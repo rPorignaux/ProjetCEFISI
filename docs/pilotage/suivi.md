@@ -4,7 +4,7 @@ Ce fichier accueille le futur tableau de suivi (Kanban ou calendrier) ; aucun re
 
 | Livrable | État | Responsable | Prochaine action / échéance confirmée |
 |---|---|---|---|
-| Note de cadrage | V1 à relire | À définir | Valider le périmètre avec Mattéo, Romain et Tim. |
+| Note de cadrage | V1 à relire | À définir | Valider le périmètre avec Mattéo, Romain, Tim et Cal-Sebastien. |
 | Inventaire et charte | Non commencé | À définir | Relever les pages publiques et compléter le journal. |
 | Maquettes V1 | Non commencé | À définir | Définir les écrans après l’inventaire initial. |
 | Matrice des droits | Non commencé | À définir | Séparer droits confirmés et droits à valider. |

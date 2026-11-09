@@ -4,6 +4,8 @@ Ce projet porte sur la refonte complète de `www.cefisi.com` : le site public, l
 
 Le projet est en phase de conception. Les besoins, les maquettes et les choix techniques sont documentés dans `docs/`.
 
+**Équipe projet :** Mattéo, Romain, Tim et Cal-Sebastien.
+
 ## Organisation
 
 | Dossier | Utilité |

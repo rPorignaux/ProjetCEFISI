@@ -1,7 +1,7 @@
 # CEFISI — Dossier de conception (V1, document de travail)
 
 **Projet :** refonte de `www.cefisi.com` — site public, administration des contenus et espace documentaire.
-**Équipe :** Mattéo, Romain, Tim.
+**Équipe :** Mattéo, Romain, Tim, Cal-Sebastien.
 **Interlocutrice côté client :** Manon Oubekkou, référente métier pour le recueil et la validation.
 **Statut :** V1 de travail. Aucune date engagée, aucun développement décidé ; les options techniques sont proposées, pas retenues.
 **Sources :** note de cadrage V1, inventaire du site (28 pages relevées dans les sitemaps, 20 pages publiques observées, 65 références CSS), copies locales de 100 médias, dix maquettes Penpot, matrice des droits (52 entrées), journal d'observations.
@@ -203,7 +203,7 @@ Les valeurs chiffrées sont des propositions à valider, pas des engagements.
 
 ## 8. Choix du langage, du framework et de la base de données
 
-La refonte est une reconstruction complète : WordPress n'est pas conservé. Le choix porte donc sur quatre éléments — langage, framework front, framework back, base de données. Les options sont comparées problème par problème plutôt que par préférence de marque.
+La refonte est une reconstruction complète : WordPress n'est pas conservé. Le choix technique se fait **par couche**, et non parmi quatre combinaisons imposées. Les propositions de l'équipe sont React ou Next.js pour le front, Symfony, Laravel ou Spring Boot pour le back, et SQLite ou PostgreSQL pour la base. L'équipe connaît mieux React ; cette compétence compte dans le choix. Aucune combinaison n'est encore arrêtée.
 
 ### 8.1 Les problèmes que chaque stack devra résoudre
 
@@ -216,81 +216,75 @@ La refonte est une reconstruction complète : WordPress n'est pas conservé. Le 
 | P5 | Éditeur de pages | Mise en forme, images, sans code, sans casser le gabarit |
 | P6 | Arborescence et adresses | Pages, sous-groupes, adresses lisibles, redirections des anciennes URL |
 | P7 | Recherche | Documents et pages, accents et fautes de frappe tolérées, réponse rapide |
-| P8 | Modèle de données et types | Un seul modèle décrit côté base, serveur et interface, migrations suivies |
+| P8 | Modèle de données et types | Modèles cohérents entre base, serveur et interface, contrat d'API et migrations suivies |
 | P9 | Tests et recette | Tests automatisés, jeu de données, parcours complet rejouable |
 | P10 | Déploiement et exploitation | Mise en ligne, migrations, journaux, sauvegardes, retour arrière |
 | P11 | Performance et référencement | Pages rapides sur mobile, métadonnées, sitemap, contenu indexable |
 | P12 | Écosystème et support | Documentation, bibliothèques maintenues, personnes capables de reprendre |
 
-### 8.2 Les quatre candidats
+### 8.2 Propositions à comparer
 
-| Option | Langage | Front | Back | Base |
-|---|---|---|---|---|
-| A | TypeScript | Next.js, App Router | même application, server actions | PostgreSQL |
-| B | TypeScript | React + Vite | NestJS | PostgreSQL |
-| C | PHP | Twig, ou Inertia + React | Symfony | PostgreSQL |
-| D | Python | gabarits Django, ou React | Django | PostgreSQL |
+| Couche | Candidats | Ce qui reste à valider |
+|---|---|---|
+| Front | React (application avec Vite) ; Next.js (framework basé sur React) | Compétences, rendu des pages publiques, référencement et hébergement |
+| Back | Symfony (PHP) ; Laravel (PHP) ; Spring Boot (Java) | Compétences de l'équipe, règles de droits, dépôt de PDF et exploitation |
+| Base SQL | SQLite ; PostgreSQL | Volume, concurrence des écritures, recherche, sauvegardes et hébergement |
 
-Une cinquième famille, Java et Spring, n'est pas retenue : elle ajoute une chaîne d'outils et un temps de mise en route sans bénéfice pour un site de 28 pages et une bibliothèque documentaire.
+Ces choix sont indépendants à ce stade : aucune association front/back/base n'est validée. Dans les deux options de front, les droits sur les documents et les pages privées devront être contrôlés côté serveur par le back. Le choix de Next.js n'impose donc pas de déplacer ces contrôles dans le front.
 
-### 8.3 Facilité de traitement, problème par problème
+### 8.3 Problèmes à examiner pour départager les choix
 
-Légende : ●●● problème réglé par une bibliothèque mature, peu de code ; ●●○ solution existante mais qui demande du code ou de la configuration ; ●○○ à écrire soi-même, ou hors du cadre de l'outil.
+| Réf | Point de comparaison | Conséquence pour le choix |
+|---|---|---|
+| P1–P2 | Sessions, rôles et droits par dossier, fichier ou page | Comparer les dispositifs du back et tester les refus côté serveur ; aucun framework ne définit seul les règles métier |
+| P3–P4 | Dépôt, stockage et consultation des PDF | Chiffrer les volumes, contrôler les types et servir les fichiers sans URL publique |
+| P5 | Éditeur de pages | Définir les blocs éditables et le niveau d'autonomie demandé à l'administration |
+| P6, P11 | Navigation, anciennes URL, référencement et performance | Vérifier si le rendu des pages publiques nécessite la génération ou le rendu côté serveur ; prévoir les redirections |
+| P7 | Recherche dans les pages et documents | Préciser le volume, les accents, le tri et les fautes tolérées avant de comparer SQLite et PostgreSQL |
+| P8–P9 | Modèle de données et tests | Évaluer les migrations, le contrat entre front et back et les parcours automatisés dans chaque combinaison |
+| P10, P12 | Déploiement, sauvegardes et capacité de maintenance | Vérifier l'hébergement disponible et les compétences réelles avant de choisir une stack |
 
-| Réf | Problème | A — Next.js | B — React + NestJS | C — Symfony | D — Django |
-|---|---|---|---|---|---|
-| P1 | Authentification et sessions | ●●○ | ●●● | ●●● | ●●● |
-| P2 | Autorisations par rôle et par objet | ●●○ | ●●● | ●●● | ●●○ |
-| P3 | Diffusion contrôlée des fichiers | ●●● | ●●● | ●●● | ●●○ |
-| P4 | Dépôt de fichiers volumineux | ●●○ | ●●● | ●●● | ●●○ |
-| P5 | Éditeur de pages | ●●○ | ●●○ | ●●● | ●●● |
-| P6 | Arborescence et adresses | ●●● | ●●○ | ●●● | ●●● |
-| P7 | Recherche | ●●● | ●●● | ●●○ | ●●● |
-| P8 | Modèle de données et types | ●●● | ●●● | ●○○ | ●○○ |
-| P9 | Tests et recette | ●●○ | ●●● | ●●● | ●●● |
-| P10 | Déploiement et exploitation | ●●● | ●●○ | ●●○ | ●●○ |
-| P11 | Performance et référencement | ●●● | ●●○ | ●●● | ●●● |
-| P12 | Écosystème et support | ●●● | ●●● | ●●○ | ●●○ |
+Ces critères remplacent les anciens scores de facilité : aucune note chiffrée fiable ne peut départager à ce stade les nouvelles combinaisons.
 
-Ces appréciations sont qualitatives et doivent être confrontées aux compétences réelles de l'équipe : elles disent ce que l'écosystème facilite, pas ce que trois personnes savent faire en trois mois.
+### 8.4 Front : React ou Next.js
 
-### 8.4 Lecture par option
+| Option | Intérêt pour le projet | Point à vérifier |
+|---|---|---|
+| React avec Vite | L'équipe le connaît mieux ; convient à une interface distincte pour l'administration et les documents | Prévoir une stratégie de rendu ou de génération des pages publiques si le référencement l'exige |
+| Next.js | S'appuie aussi sur React et propose le routage et des modes de rendu utiles aux pages publiques | Confirmer que l'équipe maîtrise ses conventions et que l'hébergement les prend en charge ; le back reste distinct dans les scénarios étudiés |
 
-**A — TypeScript de bout en bout.** Un seul modèle de types traverse la base, le serveur et l'interface ; le routage par segments couvre l'arborescence et les adresses lisibles ; le déploiement tient en un service. En revanche, l'authentification et les autorisations par objet se composent à la main à partir de briques distinctes : c'est là que se concentrera l'essentiel du travail de rigueur.
+**Préférence de travail pour React**, fondée sur les connaissances actuelles de l'équipe, sous réserve de vérifier les exigences des pages publiques. Next.js reste une proposition, pas une décision exclue.
 
-**B — React et NestJS séparés.** Les guards, la validation et la structure par modules rendent les droits et les sessions plus directs à écrire. Le prix est double : deux bases de code, un contrat d'API à maintenir, deux déploiements à surveiller.
+### 8.5 Back : Symfony, Laravel ou Spring Boot
 
-**C — Symfony.** Le framework fournit les formulaires, la sécurité, les voters et un éditeur riche éprouvé. Il souffre sur le partage de types avec l'interface et sur un écosystème front qui évolue moins vite.
+| Option | Langage | À comparer concrètement |
+|---|---|---|
+| Symfony | PHP | Sécurité, organisation des droits par objet, API et compétences de l'équipe |
+| Laravel | PHP | Authentification, autorisations, dépôt de fichiers, API et compétences de l'équipe |
+| Spring Boot | Java | Sécurité, structure des services, exploitation JVM et compétences de l'équipe |
 
-**D — Django.** Authentification, permissions, administration et recherche plein texte sont fournies. Les types ne traversent pas jusqu'à l'interface, et la modernisation du front demande soit de composer avec les gabarits, soit d'ajouter une application séparée.
+Les trois peuvent porter une API et les règles métier. Aucun n'est retenu avant de vérifier qui saura le développer et le maintenir, et comment seront protégés les PDF.
 
-### 8.5 Base de données
+### 8.6 Base SQL : SQLite ou PostgreSQL
 
-**PostgreSQL, dans les quatre options.** Il apporte l'indexation plein texte en français avec suppression des accents, la recherche approximative par trigrammes pour les fautes de frappe, des colonnes JSON pour le contenu structuré des pages, et une sécurité au niveau des lignes qui peut servir de filet sous les contrôles applicatifs. MySQL reste acceptable si l'hébergeur l'impose, avec une recherche plein texte plus pauvre sur les accents. SQLite est écarté : écritures concurrentes et recherche insuffisante pour une bibliothèque partagée.
+| Option | Intérêt | Vigilance |
+|---|---|---|
+| SQLite | Déploiement simple pour un volume modéré et peu d'écritures simultanées | Une seule écriture à la fois ; organiser les sauvegardes, les migrations et le stockage persistant |
+| PostgreSQL | Adapté si plusieurs administrateurs écrivent en parallèle ou si la recherche et les requêtes deviennent plus complexes | Hébergement et administration de la base à prévoir |
 
-### 8.6 Classement
+SQLite n'est pas écarté d'emblée. Le nombre de comptes, le volume de PDF, la fréquence des écritures, la recherche souhaitée et l'hébergement disponible devront orienter le choix. Dans les deux cas, les PDF sont des fichiers à stocker et à protéger indépendamment des enregistrements SQL.
 
-| Option | Points de facilité | Cohérence du code | Coût de mise en route | Verdict |
-|---|---|---|---|---|
-| A — Next.js + PostgreSQL | 31 sur 36 | Un seul langage, une seule base de code | Un seul service à déployer | Recommandé |
-| B — React + NestJS | 32 sur 36 | Deux bases de code, un contrat d'API | Deux services, plus de structure à écrire | Alternative solide |
-| C — Symfony | 31 sur 36 | Deux langages si le front est en React | Cadre complet, moins de décisions à prendre | Si l'équipe est PHP |
-| D — Django | 29 sur 36 | Deux langages si le front est en React | Cadre complet, front à moderniser | Si l'équipe est Python |
+### 8.7 Orientation provisoire
 
-B obtient un point de plus que A sur la facilité brute : ses guards et sa structure de modules règlent plus directement les droits et les sessions. A reste recommandé parce qu'un seul langage, un seul modèle de types et un seul déploiement comptent davantage sur un projet de cette taille. Si l'équipe préfère séparer nettement le front et le back, B est un choix légitime et non un pis-aller.
-
-### 8.7 Recommandation
-
-**Option A — Next.js, TypeScript et PostgreSQL**, pour quatre raisons : un seul langage et un seul modèle de types entre la bibliothèque documentaire, l'éditeur de pages et l'interface ; le routage par segments correspond directement à l'arborescence pages et sous-groupes ; le déploiement d'un seul service simplifie l'exploitation d'une petite équipe ; PostgreSQL couvre la recherche et le stockage structuré sans service supplémentaire.
-
-Le choix se renverse si l'audit des compétences montre que personne n'est à l'aise avec TypeScript : dans ce cas C ou D sont préférables à une stack que l'équipe découvrirait en même temps que le projet.
+Le front React constitue le point de départ le plus naturel compte tenu de l'expérience de l'équipe. **Le back (Symfony, Laravel ou Spring Boot) et la base (SQLite ou PostgreSQL) restent ouverts** ; Next.js demeure une alternative pour les pages publiques. Aucune combinaison complète ni aucun classement chiffré ne sont retenus.
 
 ### 8.8 Ce que ce chapitre ne tranche pas
 
-- Les compétences réelles de l'équipe, qui départagent A, B, C et D autant que les critères techniques.
-- L'hébergement disponible, son coût et la personne qui l'administre.
-- Qui maintient le site après la livraison.
-- Le détail de l'outillage : Prisma ou Drizzle pour l'ORM, Tailwind ou CSS classique, bibliothèque de composants.
+- Les compétences concrètes de l'équipe sur Symfony, Laravel et Spring Boot.
+- Les attentes de référencement et de rendu des pages publiques pour départager React et Next.js.
+- Le nombre d'utilisateurs et d'administrateurs, la fréquence des écritures et les besoins réels de recherche pour comparer SQLite et PostgreSQL.
+- L'hébergement disponible, son coût, les sauvegardes et la personne qui maintiendra le site après la livraison.
+- Le détail de l'outillage front et back, qui dépendra des choix précédents.
 
 ## 9. Suivi du projet et outils
 
@@ -329,7 +323,7 @@ La matrice des droits sert de base : chaque ligne porte déjà une proposition p
 
 ### 10.3 Technique et exploitation
 
-- Quelle option de stack retenir : A, B, C ou D (chapitre 8) ?
+- Quel front retenir : React, mieux connu de l'équipe, ou Next.js ? Quel back parmi Symfony, Laravel et Spring Boot ? Quelle base entre SQLite et PostgreSQL (chapitre 8) ?
 - Qui héberge, qui sauvegarde, qui met à jour ?
 - Un environnement de recette séparé est-il prévu (T-15) ?
 - Faut-il reprendre les comptes existants du site actuel (T-11) ?

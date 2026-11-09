@@ -1,7 +1,8 @@
 # CEFISI — Note de cadrage (V1, à valider)
 
 **Projet :** refonte du site public `www.cefisi.com` avec administration du contenu et espace documentaire étudiant.  
-**Équipe :** Mattéo, Romain, Tim — répartition des responsabilités **à compléter collectivement**.  
+**Équipe :** Mattéo, Romain, Tim, Cal-Sebastien — répartition des responsabilités **à compléter collectivement**.
+
 **Interlocutrice côté client :** Manon Oubekkou (référente métier pour le recueil et la validation des besoins ; rôle formel à confirmer).  
 **Statut :** document de travail ; les droits précis et les choix techniques ne sont pas arrêtés.
 
